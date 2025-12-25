@@ -1,4 +1,4 @@
-<img width="1889" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/f38a610c-10dc-491f-a262-e01beea0d3ec" />
+
 🚀 Project Overview
 This project replicates the core experience of Netflix while enhancing it with AI search and recommendations. It uses TMDB for movie data and OpenAI GPT for intelligent suggestions, with authentication powered by Firebase.
 
