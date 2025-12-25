@@ -50,3 +50,59 @@ Netflix-style UI with AI movie recommendations ✨
 
 📄 License
 This project is for educational purposes.
+
+
+
+
+
+#Sign In/Sign Up page
+
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/bb7fd8b7-d468-44bb-a140-211e0b3b9919" />
+
+
+
+
+
+#BackGround VideoPlay
+
+<img width="1885" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/5b1b1e7c-3015-43b6-9492-23d7f8776ec6" />
+
+
+
+
+
+
+
+
+#Movie Listing-Now playing,TopRated
+
+<img width="1884" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/7bf2089a-c2a3-4763-a528-ed7327d70848" />
+
+
+
+
+
+
+
+
+
+
+#Movie Listing-Upcoming,Action
+
+<img width="1892" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/820c8bf1-f826-4c05-9e22-837a328d6ce5" />
+
+
+
+#GPT Movie Recommendation Page
+
+
+
+
+
+
+
+<img width="1887" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/73ad22dd-555a-46d1-9cca-8cd2e7623945" />
+
+
+
+
