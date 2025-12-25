@@ -100,7 +100,6 @@ This project is for educational purposes.
 
 
 
-![Uploading Screenshot (48).png…]()
 
 
 
