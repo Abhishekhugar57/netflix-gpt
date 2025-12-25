@@ -96,6 +96,11 @@ This project is for educational purposes.
 #GPT Movie Recommendation Page
 
 
+<img width="1889" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/7aad7799-3c0b-4474-82cc-79caa3f9ac2c" />
+
+
+
+
 
 
 
